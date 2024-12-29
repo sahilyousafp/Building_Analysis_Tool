@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>OBJ Example</title>
+    <style>
+        body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            user-select: none;
+        }
+
+        #OBJ_canvas {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            background: lightblue;
+            background-image: linear-gradient(lightblue, white);
+        }
+    </style>
+</head>
+<body>
+<canvas id="OBJ_canvas"></canvas>
+</body>
+<script id="source" type="module">
+
+    import {OBJLoaderPlugin, Viewer} from
+                    "https://cdn.jsdelivr.net/npm/@xeokit/xeokit-sdk/dist/xeokit-sdk.es.min.js";
+    
+    const viewer = new Viewer({
+        canvasId: "OBJ_canvas",
+        transparent: true,
+        dtxEnabled: true
+    });
+
+    viewer.camera.eye = [-3.933, 2.855, 27.018];
+    viewer.camera.look = [4.400, 3.724, 8.899];
+    viewer.camera.up = [-0.018, 0.999, 0.039];
+
+    const OBJLoader = new OBJLoaderPlugin(viewer);
+
+    const sceneModel = OBJLoader.load({
+        id: "2492_open3dmodel",
+        src: "2492_open3dmodel/2492_open3dmodel/House01/House01.obj",
+        saoEnabled: true,
+        edges: true,
+        dtxEnabled: true
+    });
+    
+</script>
+</html>
