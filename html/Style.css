@@ -1,0 +1,189 @@
+/* Global Resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    background-color: #fafafa;
+}
+
+/* Navigation */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black; /* Updated to black */
+    color: #fff;
+    padding: 1rem 2rem;
+}
+.nav-brand {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.nav-menu {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+.nav-menu a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+.nav-menu a:hover {
+    opacity: 0.8;
+}
+
+/* Hero Section */
+.hero-section {
+    background: 
+        url("C:\Users\papad\Desktop\IAAC\DesignCommunication\html\Group 31.png") no-repeat center, /* Add the new image on top */
+        linear-gradient(
+            rgba(0, 0, 0, 0.85), /* Dark overlay */
+            rgba(0, 0, 0, 0.85)
+        ), 
+        url("D:\IaaC\TERM 1\Design Communication\Final\Website\vecteezy_hospital-staff-rushing-down-the-busy-hallway-generative-ai_21928318_82-scaled.jpg") no-repeat center center/cover; /* Original background image */
+    height: 80vh; /* Maintain original dimensions */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+
+.hero-content {
+    text-align: center;
+    color: #fff;
+}
+.hero-title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.hero-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+.cta-button {
+    background-color: #9b0000;
+    border: none;
+    padding: 1rem 2rem;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.cta-button:hover {
+    background-color: #d68c00;
+}
+
+/* Features Section */
+.features-section {
+    padding: 4rem 2rem;
+    background-color: #fff;
+    text-align: center;
+}
+.features-section h2 {
+    margin-bottom: 2rem;
+}
+.feature-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+.feature-card {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    padding: 2rem;
+    flex: 1 1 250px;
+    max-width: 300px;
+    border-radius: 8px;
+}
+.feature-card h3 {
+    margin-bottom: 1rem;
+}
+
+/* How It Works Section */
+.how-section {
+    padding: 4rem 2rem;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+.how-section h2 {
+    margin-bottom: 2rem;
+}
+.step-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+.step {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+}
+.step h3 {
+    margin-bottom: 1rem;
+}
+
+/* CTA Section */
+.cta-section {
+    padding: 4rem 2rem;
+    background-color: #1a1a1a; /* Updated to almost black */
+    color: #fff;
+    text-align: center;
+}
+.cta-section h2 {
+    margin-bottom: 1rem;
+}
+.cta-section p {
+    margin-bottom: 2rem;
+}
+
+/* Contact Section */
+.contact-section {
+    padding: 4rem 2rem;
+    background-color: #fff;
+    text-align: center;
+}
+.contact-section h2 {
+    margin-bottom: 1rem;
+}
+.contact-form {
+    margin-top: 2rem;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 300px;
+    max-width: 100%;
+}
+.contact-form input,
+.contact-form textarea {
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.contact-form button {
+    background-color: #ffa500;
+    border: none;
+    padding: 1rem;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.contact-form button:hover {
+    background-color: #d68c00;
+}
+
+/* Footer */
+.footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
