@@ -3,6 +3,8 @@ A smart Building Analysis Tool (BAT) designed for architects to enhance the acce
 Features: 
 
 1.Graph-based spatial analysis: Spot potential navigation bottlenecks, identify wayfinding improvements.
+![3206444754_8a3da0765a_n](https://github.com/user-attachments/assets/096d2dad-174d-4ff1-beab-4ea101254810)
+
 
 2.Image segmentation of floor plans: Highlight key elements (doors, ramps, tactile surfaces).
 
