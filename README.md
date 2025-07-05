@@ -3,15 +3,16 @@ A smart Building Analysis Tool (BAT) designed for architects to enhance the acce
 Features: 
 
 1.Graph-based spatial analysis: Spot potential navigation bottlenecks, identify wayfinding improvements.
-![Screenshot 2025-07-05 184832](https://github.com/user-attachments/assets/ec5ebc10-9cf6-4a0f-b945-d2d0a73c1a27)
 
-2.Image segmentation of floor plans: Highlight key elements (doors, ramps, tactile surfaces).
+![Screenshot 2025-07-05 185336](https://github.com/user-attachments/assets/fb15d672-aee4-4cfc-b86a-473a7243ff76)
 
-![Screenshot 2025-07-05 185052](https://github.com/user-attachments/assets/b35dd83f-8566-49bb-b877-a8864fbdbe2f)
+2.Image segmentation of interiors: Highlight key elements (doors, ramps, tactile surfaces).'
+
+![Screenshot 2025-07-05 190004](https://github.com/user-attachments/assets/e99fa282-6b6c-4493-b935-05bbaae85f01)
 
 3.RAG: Recommend accessible design strategies tailored to visually-impaired users.
 
-![Screenshot 2025-07-05 185157](https://github.com/user-attachments/assets/b3cd5dd0-738d-4187-9d8f-9d6b28c95101)
+![46](https://github.com/user-attachments/assets/0f118610-ac3f-4724-8b26-c1f6f4731bd4)
 
 Importance values excel: We included an Excel sheet that ranks different spaces within a healthcare facility based on their importance for visually impaired users. Each space was evaluated using a priority score from 1 to 10, where:
 
