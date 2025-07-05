@@ -4,7 +4,7 @@ Features:
 
 1.Graph-based spatial analysis: Spot potential navigation bottlenecks, identify wayfinding improvements.
 
-![Screenshot 2025-07-05 185336](https://github.com/user-attachments/assets/fb15d672-aee4-4cfc-b86a-473a7243ff76)
+![Screenshot 2025-07-05 190127](https://github.com/user-attachments/assets/37cd15bd-9c54-421d-9836-d74158d969a7)
 
 2.Image segmentation of interiors: Highlight key elements (doors, ramps, tactile surfaces).'
 
