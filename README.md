@@ -22,6 +22,9 @@ Importance values excel: We included an Excel sheet that ranks different spaces 
 
 This hierarchy was developed to guide our design and analysis tool in emphasizing high-priority zones like entrances, reception areas, restrooms, and examination rooms. Lower-priority zones (e.g., staff-only areas or storage) were treated with less accessibility emphasis in automated recommendations.
 
+File: space_priority_scores.xlsx
+
+
 A project developed by:
 
 - Sahil Youssaf
@@ -30,4 +33,4 @@ A project developed by:
 - Nouhaila ELMALOULI
 - Elena Papakosta
 
-Built during the Master in AI for Architecture & the Built Environment 2024–25 , first term studio. Thanks to IAAC support
+Developed as part of the Master in AI for Architecture & the Built Environment 2024–25, during the 1st term research studio. Institution: IAAC – Institute for Advanced Architecture of Catalonia Special Thanks: Faculty and advisors at IAAC for technical and theoretical guidance. Refer for more info: https://blog.iaac.net/building-analisis-tool-designing-for-the-visually-impaired-enhancing-accessibility-in-healthcare-architecture/
