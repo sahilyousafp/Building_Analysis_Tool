@@ -1,4 +1,8 @@
+**Building Analysis Tool**
+
 A smart Building Analysis Tool (BAT) designed for architects to enhance the accessibility & navigation of healthcare spaces for visually-impaired users.
+
+![3](https://github.com/user-attachments/assets/31ea7642-e351-4705-bca2-d248adb6fbbd)
 
 Features: 
 
