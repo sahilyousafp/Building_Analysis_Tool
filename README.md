@@ -24,14 +24,10 @@ This hierarchy was developed to guide our design and analysis tool in emphasizin
 
 A project developed by:
 
-- Nouhaila ELMALOULI
-
 - Sahil Youssaf
-
 - Eleftheria Papadosifou
-
-- Elena Papakosta
-
 - Kacper Wasilewski
+- Nouhaila ELMALOULI
+- Elena Papakosta
 
 Built during the Master in AI for Architecture & the Built Environment 2024–25 , first term studio. Thanks to IAAC support
