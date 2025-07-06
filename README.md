@@ -1,5 +1,17 @@
 A smart Building Analysis Tool (BAT) designed for architects to enhance the accessibility & navigation of healthcare spaces for visually-impaired users.
 
+A project developed by:
+
+- Nouhaila ELMALOULI
+
+- Sahil Youssaf
+
+- Eleftheria Papadosifou
+
+- Elena Papakosta
+
+- Kacper Wasilewski
+
 Features: 
 
 1.Graph-based spatial analysis: Spot potential navigation bottlenecks, identify wayfinding improvements.
