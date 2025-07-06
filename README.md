@@ -1,17 +1,5 @@
 A smart Building Analysis Tool (BAT) designed for architects to enhance the accessibility & navigation of healthcare spaces for visually-impaired users.
 
-A project developed by:
-
-- Nouhaila ELMALOULI
-
-- Sahil Youssaf
-
-- Eleftheria Papadosifou
-
-- Elena Papakosta
-
-- Kacper Wasilewski
-
 Features: 
 
 1.Graph-based spatial analysis: Spot potential navigation bottlenecks, identify wayfinding improvements.
@@ -33,5 +21,17 @@ Importance values excel: We included an Excel sheet that ranks different spaces 
 1 = least critical or non-essential for direct user access
 
 This hierarchy was developed to guide our design and analysis tool in emphasizing high-priority zones like entrances, reception areas, restrooms, and examination rooms. Lower-priority zones (e.g., staff-only areas or storage) were treated with less accessibility emphasis in automated recommendations.
+
+A project developed by:
+
+- Nouhaila ELMALOULI
+
+- Sahil Youssaf
+
+- Eleftheria Papadosifou
+
+- Elena Papakosta
+
+- Kacper Wasilewski
 
 Built during the Master in AI for Architecture & the Built Environment 2024–25 , first term studio. Thanks to IAAC support
