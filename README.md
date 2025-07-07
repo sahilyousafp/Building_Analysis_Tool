@@ -37,4 +37,9 @@ A project developed by:
 - Nouhaila ELMALOULI
 - Elena Papakosta
 
+This tool was collaboratively developed with contributions from multiple team members to advance accessibility in healthcare design.
+
 Developed as part of the Master in AI for Architecture & the Built Environment 2024–25, during the 1st term research studio. Institution: IAAC – Institute for Advanced Architecture of Catalonia Special Thanks: Faculty and advisors at IAAC for technical and theoretical guidance. Refer for more info: https://blog.iaac.net/building-analisis-tool-designing-for-the-visually-impaired-enhancing-accessibility-in-healthcare-architecture/
+
+---
+
